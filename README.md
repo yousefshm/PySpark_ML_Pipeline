@@ -36,7 +36,7 @@ The Linear Regression model was trained on 70% of the data and evaluated on 30% 
 ---
 
 ## 📂 Project Structure
-```bash
+
 ├── data/
 │   └── mpg-raw.csv              # Raw dataset
 ├── output/
