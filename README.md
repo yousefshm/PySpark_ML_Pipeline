@@ -61,6 +61,7 @@ The Linear Regression model was trained on 70% of the data and evaluated on 30% 
 
 ## 👨‍💻 Author
 **Yousef Almotawea** Data Engineer | IBM Certified | CDMP
+
 [https://www.linkedin.com/in/yousef-almotawea-cdmp%C2%AE-730003238/]
 
 ---
